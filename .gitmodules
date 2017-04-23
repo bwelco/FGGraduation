@@ -1,0 +1,6 @@
+[submodule "LocalAPP"]
+	path = LocalAPP
+	url = https://github.com/bwelco/LocalAPP.git
+[submodule "PiServer"]
+	path = PiServer
+	url = https://github.com/bwelco/PiServer.git
